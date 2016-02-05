@@ -1,0 +1,500 @@
+   35  dir
+   36  cd webapp/WEB-INF/
+   37  dir
+   38  vi applicationContext.xml 
+   39  cd ../../
+   40  cd ../../
+   41  mvn clean package 
+   42  mvn clean package tomcat7:run-war
+   43  /etc/apache-maven-3.2.5/bin/mvn clean package tomcat7:run-war
+   44  java  com.journaldev.Main
+   45  cd 
+   46  dir
+   47  cd  ~/work/jsf/Primefaces-Hibernate-Spring-Integration-Sample
+   48  dir
+   49  cd target/
+   50  dir
+   51  cd classes/
+   52  java com/journaldev/Main.class
+   53  java com.journaldev.Main 
+   54  java com.journaldev.Main.class
+   55  cd ..
+   56  cd ..
+   57  /etc/apache-maven-3.2.5/bin/mvn clean install tomcat7:run-war
+   58  /etc/apache-maven-3.2.5/bin/mvn clean install tomcat7:run
+   59  /etc/apache-maven-3.2.5/bin/mvn clean install tomcat7:redeploy
+   60  /etc/apache-maven-3.2.5/bin/mvn clean install tomcat7:deploy
+   61  /etc/apache-maven-3.2.5/bin/mvn  tomcat7:deploy-only
+   62  /etc/apache-maven-3.2.5/bin/mvn clean install tomcat7:run
+   63  /etc/apache-maven-3.2.5/bin/mvn clean install
+   64  /etc/apache-maven-3.2.5/bin/mvn tomcat7:run
+   65  /etc/apache-maven-3.2.5/bin/mvn tomcat7:run
+   66  /etc/apache-maven-3.2.5/bin/mvn tomcat7:run
+   67  /etc/apache-maven-3.2.5/bin/mvn tomcat7:run
+   68  /etc/apache-maven-3.2.5/bin/mvn install tomcat7:run
+   69  /etc/apache-maven-3.2.5/bin/mvn install tomcat7:run
+   70  /etc/apache-maven-3.2.5/bin/mvn install tomcat7:run
+   71  /etc/apache-maven-3.2.5/bin/mvn install tomcat7:run
+   72  /etc/apache-maven-3.2.5/bin/mvn install tomcat7:run
+   73  mysql stop
+   74  sudo mysql stop
+   75  sudo service mysql stop
+   76  mysqld --skip-grant-tables
+   77  sudo mysqld --skip-grant-tables
+   78  $ mysql -u root mysql
+   79  $ sudo mysql -u root mysql
+   80  mysql -u root mysql
+   81  /etc/init.d/mysql restart
+   82  sudo service mysql stop
+   83  sudo service mysql start
+   84  mysql -u root -p
+   85  /etc/apache-maven-3.2.5/bin/mvn tomcat7:start
+   86  /etc/apache-maven-3.2.5/bin/mvn tomcat7:run
+   87  /etc/apache-maven-3.2.5/bin/mvn clean install tomcat7:run
+   88  cd firefox/
+   89  ./firefox &
+   90  cd firefox/
+   91  dur
+   92  dir
+   93  ./firefox &
+   94  top
+   95  ping www.heise.de
+   96  ./firefox &
+   97  exit
+   98  firefox &
+   99  dir
+  100  cd firefox/
+  101  dir
+  102  cd firefox/
+  103  dir
+  104  ./firefox &>
+  105  ./firefox &
+  106  dir
+  107  ls -al
+  108  ./run-mozilla.sh 
+  109  sudo ./run-mozilla.sh 
+  110  ./run-mozilla.sh 
+  111  ./run-mozilla.sh 
+  112  exit
+  113  xfwm4 &
+  114  skype &
+  115  apt-get install skype
+  116  sudo apt-get install skype
+  117  skype &
+  118  dir
+  119  cd firefox/
+  120  dir
+  121  dir
+  122  cd firefox/
+  123  dir
+  124  ./firefox &
+  125  vi c
+  126  exit
+  127  ./run-mozilla.sh 
+  128  ./run-mozilla.sh &
+  129  firefox &
+  130  exit
+  131  ./run-mozilla.sh 
+  132  chmod 777 run-mozilla.sh 
+  133  ./run-mozilla.sh 
+  134  firefox 
+  135  ./run-mozilla.sh 
+  136  run-mozilla.sh 
+  137  dir
+  138  ./firefox-bin 
+  139  cd firefox/
+  140  dir
+  141  cd firefox/
+  142  dir
+  143  ./firefox &
+  144  firefox &
+  145  xwfm &
+  146  xfwm4 &
+  147  xfwm4 &
+  148  mvn
+  149  sudo apt-get install maven2
+  150  cd
+  151  dir
+  152  cd work/
+  153  dir
+  154  cd ..
+  155  ls -al
+  156  cd work/
+  157  dir
+  158  cd jsf/
+  159  dir
+  160  cd Primefaces-Hibernate-Spring-Integration-Sample/
+  161  dir
+  162  history
+  163  cd
+  164  cd work/
+  165  dir
+  166  mkdir
+  167  file:///media/8CA0-A2FB/dabsBackend2
+  168  file:///media/8CA0-A2FB/dabsWeb2
+  169  firefox &
+  170  history
+  171  cd work/
+  172  dir
+  173  dir
+  174  cd tmp/
+  175  dir
+  176  cd ..
+  177  cd testDabs/
+  178  dir
+  179  eclipse 
+  180  cd ..
+  181  dir
+  182  cd testDabs/
+  183  dir
+  184  cd mywebapp/
+  185  vi pom.xml 
+  186  mv pom.xml pom2.xml
+  187  cp pom2.xml pom.xml
+  188  gedit pom.xml 
+  189  mvn clean
+  190  <dependency>
+  191  <groupId>aopalliance</groupId>
+  192  <artifactId>aopalliance</artifactId>
+  193  <version>1.0</version>
+  194  </dependency>
+  195  <dependency>
+  196  <groupId>org.aspectj</groupId>
+  197  <artifactId>aspectjweaver</artifactId>
+  198  <version>1.8.2</version>
+  199  </dependency>
+  200  <dependency>
+  201  <groupId>com.jolbox</groupId>
+  202  <artifactId>bonecp</artifactId>
+  203  <version>0.7.1.RELEASE</version>
+  204  </dependency>
+  205  <dependency>
+  206  <groupId>commons-collections</groupId>
+  207  <artifactId>commons-collections</artifactId>
+  208  <version>3.2.1</version>
+  209  </dependency>
+  210  <dependency>
+  211  mvn clean
+  212  /etc/apache-maven-3.2.5/bin/mvn clean
+  213  /etc/apache-maven-3.2.5/bin/mvn clean
+  214  /etc/apache-maven-3.2.5/bin/mvn clean
+  215  /etc/apache-maven-3.2.5/bin/mvn clean
+  216  /etc/apache-maven-3.2.5/bin/mvn clean
+  217  dir
+  218  /etc/apache-maven-3.2.5/bin/mvn clean
+  219  sudo shutdown -h now
+  220  cd work/
+  221  dir
+  222  cd testDabs/
+  223  dir
+  224  cd mywebapp/
+  225  dir
+  226  dir
+  227  vi pom.xml 
+  228  /etc/apache-maven-3.2.5/bin/mvn clean
+  229  dir
+  230  cd ..
+  231  dir
+  232  cd Primefaces-Hibernate-Spring-Integration-Sample/
+  233  dir
+  234  gedit pom.xml &
+  235  gedit ../mywebapp/pom2.xml &
+  236  /etc/apache-maven-3.2.5/bin/mvn clean
+  237  /etc/apache-maven-3.2.5/bin/mvn clean
+  238  /etc/apache-maven-3.2.5/bin/mvn clean
+  239  /etc/apache-maven-3.2.5/bin/mvn clean
+  240  /etc/apache-maven-3.2.5/bin/mvn clean
+  241  /etc/apache-maven-3.2.5/bin/mvn clean
+  242  /etc/apache-maven-3.2.5/bin/mvn clean
+  243  /etc/apache-maven-3.2.5/bin/mvn clean install
+  244  /etc/apache-maven-3.2.5/bin/mvn clean install
+  245  /etc/apache-maven-3.2.5/bin/mvn clean
+  246  /etc/apache-maven-3.2.5/bin/mvn clean install
+  247  dir
+  248  cd target/
+  249  dir
+  250  cd Primefaces-Hibernate-Spring-Integration-Sample-0.0.1-SNAPSHOT/
+  251  dir
+  252  cd WEB-INF/
+  253  cd lib/
+  254  ls -l
+  255  cd ..
+  256  cd ..
+  257  cd ..
+  258  cd work/
+  259  dir
+  260  cd testDabs/
+  261  dir
+  262  cd Primefaces-Hibernate-Spring-Integration-Sample/
+  263  dir
+  264  gedit web_pom.txt &
+  265  xfwn4 &
+  266  xfwm4 &
+  267  firefox &
+  268  cd work/
+  269  dir
+  270  cd testDabs/
+  271  dir
+  272  cd Primefaces-Hibernate-Spring-Integration-Sample/
+  273  dir
+  274  gedit web_pom.txt &
+  275  cd ..
+  276  cd ..
+  277  dir
+  278  cd testDabs/
+  279  dir
+  280  cd ..
+  281  cd tmp/
+  282  dir
+  283  cd dabsWeb2/
+  284  dir
+  285  /etc/apache-maven-3.2.5/bin/mvn clean
+  286  /etc/apache-maven-3.2.5/bin/mvn clean
+  287  /etc/apache-maven-3.2.5/bin/mvn clean
+  288  /etc/apache-maven-3.2.5/bin/mvn clean
+  289  /etc/apache-maven-3.2.5/bin/mvn clean install
+  290  /etc/apache-maven-3.2.5/bin/mvn clean install
+  291  /etc/apache-maven-3.2.5/bin/mvn archetype:generate
+  292  dir
+  293  cd ..
+  294  $ mvn archetype:generate -DgroupId=com.mkyong 
+  295  -DartifactId=CounterWebApp 
+  296  -DarchetypeArtifactId=maven-archetype-webapp 
+  297  $ mvn archetype:generate -DgroupId=com.mkyong 
+  298  -DartifactId=CounterWebApp 
+  299  -DarchetypeArtifactId=maven-archetype-webapp 
+  300  $ mvn archetype:generate -DgroupId=ch.dataconnect -DartifactId=dabsWeb -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+  301  /etc/apache-maven-3.2.5/bin mvn archetype:generate -DgroupId=ch.dataconnect -DartifactId=dabsWeb -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+  302  /etc/apache-maven-3.2.5/bin/mvn archetype:generate -DgroupId=ch.dataconnect -DartifactId=dabsWeb -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+  303  cd dabs
+  304  dir
+  305  cd dabsWeb
+  306  dir
+  307  dir
+  308  clean
+  309  clear
+  310  mvn clean
+  311  /etc/apache-maven-3.2.5/bin/mvn clean
+  312  /etc/apache-maven-3.2.5/bin/mvn clean install
+  313  /etc/apache-maven-3.2.5/bin/mvn clean install
+  314  cd ..
+  315  /etc/apache-maven-3.2.5/bin/mvn archetype:generate -DgroupId=ch.dataconnect -DartifactId=dabsBackend -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+  316  cd dabsBackend
+  317  DIR
+  318  dir
+  319  /etc/apache-maven-3.2.5/bin/mvn clean install
+  320  /etc/apache-maven-3.2.5/bin/mvn clean install
+  321  xfwm4 &
+  322  cd
+  323  dir
+  324  cd firefox/
+  325  dir
+  326  cd firefox/
+  327  dir
+  328  ./firefox &
+  329  ls -lt
+  330  ./run-mozilla.sh
+  331  run-mozilla.sh
+  332  ./run-mozilla.sh 
+  333  chmod 777 run-mozilla.sh 
+  334  ./run-mozilla.sh 
+  335  exit
+  336  exit
+  337  cd .m2
+  338  cd <dependency>
+  339  <groupId>ch.dataconnect</groupId>
+  340  <artifactId>dcaCoreBackend</artifactId>
+  341  <version>1.0.9.0-b172</version>
+  342  </dependency>
+  343  <dependency>
+  344  <groupId>ch.dataconnect</groupId>
+  345  <artifactId>dcaCoreWeb</artifactId>
+  346  <version>1.0.6.0-b96</version>
+  347  cd /home/um/work/tmp/dabsBackend/src/main/java/ch/dataconnect/dabs/
+  348  dir
+  349  vi DabsUtils.java 
+  350  vi DabsUtils.java 
+  351  vi DabsUtils.java 
+  352  history
+  353  cd work/
+  354  dir
+  355  cd testDabs/
+  356  dir
+  357  cd Primefaces-Hibernate-Spring-Integration-Sample/
+  358  dir
+  359  vi pom.xml 
+  360  cd ..
+  361  cd ..
+  362  cd tmp/
+  363  cd dabsWeb
+  364  dir
+  365  /etc/apache-maven-3.2.5/bin/mvn clean install
+  366  /etc/apache-maven-3.2.5/bin/mvn install-file -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCoreBackend-1.0.9.0-b172.jar 
+  367  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file  -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCoreBackend-1.0.9.0-b172.jar 
+  368  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -DgroupId=ch.dataconnect -DartifactId=dcaCoreBackend -Dversion1.0.9.0-b172 -Dpackaging=jar -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCoreBackend-1.0.9.0-b172.jar 
+  369  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -DgroupId=ch.dataconnect -DartifactId=dcaCoreBackend -Dversion=1.0.9.0-b172 -Dpackaging=jar -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCoreBackend-1.0.9.0-b172.jar 
+  370  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -DgroupId=ch.dataconnect -DartifactId=dcaCoreWeb -Dversion=1.0.6.0-b96 -Dpackaging=jar -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCoreWeb-1.0.6.0-b96.jar 
+  371  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -DgroupId=ch.dataconnect -DartifactId=dcaCorePrimefaces -Dversion=1.0.4.0-b165 -Dpackaging=jar -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCorePrimefaces-1.0.4.0-b165.jar 
+  372  /etc/apache-maven-3.2.5/bin/mvn install
+  373  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -DgroupId=ch.dataconnect -DartifactId=dcaCorePrimefaces -Dversion=1.0.4.0-b165 -Dpackaging=jar -DgeneratePom=true -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCorePrimefaces-1.0.4.0-b165.jar 
+  374  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -DgroupId=ch.dataconnect -DartifactId=dcaCoreWeb -Dversion=1.0.6.0-b96 -Dpackaging=jar -DgeneratePom=true  -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCoreWeb-1.0.6.0-b96.jar 
+  375  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -DgroupId=ch.dataconnect -DartifactId=dcaCoreBackend -Dversion=1.0.9.0-b172 -Dpackaging=jar -Dfile=/home/um/work/tmp/dabsWeb2/lib/dcaCoreBackend-1.0.9.0-b172.jar -DgeneratePom=true 
+  376  /etc/apache-maven-3.2.5/bin/mvn install
+  377  cd ../dabsBackend
+  378  /etc/apache-maven-3.2.5/bin/mvn install
+  379  /etc/apache-maven-3.2.5/bin/mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -DgroupId=ch.dataconnect -DartifactId=jira-soap-with-dependencies -Dversion=1.0 -Dpackaging=jar -Dfile=/home/um/work/tmp/dabsWeb2/lib/jira-soap-with-dependencies-1.0.jar -DgeneratePom=true 
+  380  /etc/apache-maven-3.2.5/bin/mvn install
+  381  /etc/apache-maven-3.2.5/bin/mvn install
+  382  /etc/apache-maven-3.2.5/bin/mvn install
+  383  /etc/apache-maven-3.2.5/bin/mvn install
+  384  <dependency>
+  385  <groupId>org.apache.tomcat</groupId>
+  386  <artifactId>tomcat-util</artifactId>
+  387  <version>7.0.62</version>
+  388  /etc/apache-maven-3.2.5/bin/mvn install
+  389  /etc/apache-maven-3.2.5/bin/mvn clean install
+  390  cd ../dabsWeb
+  391  /etc/apache-maven-3.2.5/bin/mvn install
+  392  /etc/apache-maven-3.2.5/bin/mvn install
+  393  /etc/apache-maven-3.2.5/bin/mvn install
+  394  /etc/apache-maven-3.2.5/bin/mvn install
+  395  /etc/apache-maven-3.2.5/bin/mvn install
+  396  cd target/
+  397  dir
+  398  ls -al
+  399  cd ..
+  400  xwfm4 &
+  401  xfwm4 &
+  402  dir
+  403  cd src/main/webapp/WEB-INF/
+  404  dir
+  405  cd ..
+  406  cd ..
+  407  dir
+  408  cd resources/
+  409  dir
+  410  cd ..
+  411  cd ..
+  412  cd src
+  413  dir
+  414  cd main/
+  415  dir
+  416  cd java/
+  417  dir
+  418  cd ..
+  419  cd ..
+  420  cd ..
+  421  cd ..
+  422  cd dabsBackend
+  423  dir
+  424  cd src/main/
+  425  dir
+  426  cd java/
+  427  dir
+  428  cd ../../
+  429  cd ..
+  430  cls
+  431  clar
+  432  clear
+  433  /etc/apache-maven-3.2.5/bin/mvn install
+  434  /etc/apache-maven-3.2.5/bin/mvn cleaninstall
+  435  /etc/apache-maven-3.2.5/bin/mvn clean install
+  436  /etc/apache-maven-3.2.5/bin/mvn clean install
+  437  /etc/apache-maven-3.2.5/bin/mvn clean install
+  438  /etc/apache-maven-3.2.5/bin/mvn clean install
+  439  /etc/apache-maven-3.2.5/bin/mvn clean install
+  440  /etc/apache-maven-3.2.5/bin/mvn clean install
+  441  mvn package
+  442  /etc/apache-maven-3.2.5/bin/mvn package
+  443  cd target/
+  444  diir
+  445  dir
+  446  cd ..
+  447  jar tf target/dabsBackend.jar 
+  448  cd target/dependency-jars/
+  449  dir
+  450  cd ..
+  451  dir
+  452  cd maven-archiver/
+  453  dir
+  454  cd ..
+  455  cd maven-status/
+  456  dir
+  457  cd ..
+  458  cd ..
+  459  cd target/dependency-jars/
+  460  dir
+  461  /etc/apache-maven-3.2.5/bin/mvn package
+  462  cd ..
+  463  cd ..
+  464  /etc/apache-maven-3.2.5/bin/mvn package
+  465  /etc/apache-maven-3.2.5/bin/mvn clean package
+  466  /etc/apache-maven-3.2.5/bin/mvn clean package
+  467  /etc/apache-maven-3.2.5/bin/mvn clean
+  468  dir
+  469  /etc/apache-maven-3.2.5/bin/mvn clean package
+  470  /etc/apache-maven-3.2.5/bin/mvn clean package
+  471  /etc/apache-maven-3.2.5/bin/mvn clean package
+  472  jar tf target/dabsBackend.jar 
+  473  /etc/apache-maven-3.2.5/bin/mvn clean package
+  474  /etc/apache-maven-3.2.5/bin/mvn clean package
+  475  dir
+  476  ls -al
+  477  cd work/
+  478  dir
+  479  cd ..
+  480  cd catan/
+  481  cd JCloisterZone/
+  482  java -jar JCloisterZone.jar 
+  483  java -version
+  484  readlink -f $(which java)
+  485  /usr/lib/jvm/java-7-openjdk-i386/jre/bin/java -jar JCloisterZone.jar 
+  486  xfwm4 &
+  487  sudo add-apt-repository ppa:webupd8team/atom
+  488  sudo add-apt-repository ppa:webupd8team/atom
+  489  sudo apt-get update
+  490  sudo apt-get install atom
+  491  atom &
+  492  sudo atom
+  493  xfwm4 &
+  494  exit
+  495  exit
+  496  sudo apt-get install startup-disk-creator
+  497  sudo apt-get install startupdiskcreator
+  498   sudo apt-get install usb-creator-gtk
+  499  usb-creator-gtk &
+  500  usb-creator-gtk &
+  501  /usr/lib/jvm/java-7-openjdk-i386/jre/bin/java -jar JCloisterZone.jar 
+  502  ls -lt
+  503  cd Downloads/
+  504  dir
+  505  cd ..
+  506  dir
+  507  cd catan/
+  508  dir
+  509  cd JCloisterZone/
+  510  /usr/lib/jvm/java-7-openjdk-i386/jre/bin/java -jar JCloisterZone.jar 
+  511  cd ..
+  512  cd ..
+  513  cd work/
+  514  dir
+  515  cd ..
+  516  dir
+  517  cdDow
+  518  cd Downloads/
+  519  dir
+  520  cd ..
+  521  cd work/
+  522  dir
+  523  cd tmp/
+  524  dir
+  525  cd ..
+  526  cd jsf/
+  527  dir
+  528  cd mywebapp/
+  529  dir
+  530  cd ..
+  531  cd Primefaces-Hibernate-Spring-Integration-Sample/
+  532  dir
+  533  dir
+  534  history > befehle.txt
